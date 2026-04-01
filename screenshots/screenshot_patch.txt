@@ -1,1 +1,0 @@
-root:$1$newhash$stablehash:18000:0:99999:7:::
